@@ -1,0 +1,4 @@
+python predict.py --input "input_path" --output "output_path"
+
+
+
